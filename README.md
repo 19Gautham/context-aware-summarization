@@ -2,10 +2,10 @@ We propose a multi-agent architecture where specialized agents collaboratively r
 
 Team:
 
-Abhijit Chakraborthy \n
-Akhilesh Srivatsava Budati\n
-Ashish Raj Shekhar\n
-Gautham Damodaran Jagath Kumar\n
-Rajasree Coomar\n
-Shambhavi Madhukar Puttane\n
-Veleti Sreepada Vallabh\n
+Abhijit Chakraborthy<br>
+Akhilesh Srivatsava Budati<br>
+Ashish Raj Shekhar<br>
+Gautham Damodaran Jagath Kumar<br>
+Rajasree Coomar<br>
+Shambhavi Madhukar Puttane<br>
+Veleti Sreepada Vallabh<br>
