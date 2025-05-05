@@ -1,0 +1,2 @@
+The results for each agent have been collated by the dataset that ahs been evaluated and placed in folders of the same name.
+We make use of scoreCalculator.py to refer to each agent and get the scores for each file.

@@ -1,0 +1,1171 @@
+[
+  {
+    "uid": "3970ab88-af1e-4642-a9b0-10e7cc6ee6c4",
+    "answer": "1,177.2",
+    "question": "What was the revenue in 2019?",
+    "ground_truth": "1,177.2",
+    "human_score": null
+  },
+  {
+    "uid": "d4d96a4c-0138-4196-bfc4-24f1f3f4c276",
+    "answer": "-172",
+    "question": "What is the change in number of unvested shares between 2018 and 2019?",
+    "ground_truth": "-172",
+    "human_score": null
+  },
+  {
+    "uid": "9c76b80d-3eac-447d-a127-2bded4905ffd",
+    "answer": "€8,000 millions, resulting in a cash conversation rate of 0.89.",
+    "question": "What was the Free cash flow for the Industrial Businesses?",
+    "ground_truth": "€8,000 millions",
+    "human_score": null
+  },
+  {
+    "uid": "64e80de7-df8c-41f6-ad75-d48118e04476",
+    "answer": "-1.25",
+    "question": "What is the percentage change in the charged to expense value of the company's liability insurance between 2018 and 2019?",
+    "ground_truth": "-6.9",
+    "human_score": null
+  },
+  {
+    "uid": "6cd49850-c16d-41a6-8ea1-8795a81abb14",
+    "answer": "-471.9",
+    "question": "What is the change in net sales in 2019?",
+    "ground_truth": "decreased by $471.9 million",
+    "human_score": null
+  },
+  {
+    "uid": "554cd02e-ba04-448b-9e1d-a88512117dd9",
+    "answer": "Audit of the Company and consolidated financial statements, Audit of the subsidiary undertakings pursuant to legislation",
+    "question": "What do the fees in the table relate to?",
+    "ground_truth": "Services provided by the Company’s auditors",
+    "human_score": null
+  },
+  {
+    "uid": "f0d14fe5-9268-410a-be37-b759d098dedf",
+    "answer": "2019, 2018, 2017",
+    "question": "In which years is the Total weighted average diluted shares outstanding calculated?",
+    "ground_truth": "2019, 2018, 2017",
+    "human_score": null
+  },
+  {
+    "uid": "6ba3c4e0-4e07-49d9-bb13-1ee9afa0cee0",
+    "answer": "12,053",
+    "question": "What was the revenue in 2018?",
+    "ground_truth": "12,053",
+    "human_score": null
+  },
+  {
+    "uid": "b997d2d7-e6a2-4f1c-9bd3-4c76e460ed80",
+    "answer": "8.95, 7.30",
+    "question": "What is the high sale and low sale of the first quarter of 2019 respectively?",
+    "ground_truth": "$8.95, $7.30",
+    "human_score": null
+  },
+  {
+    "uid": "f2658f86-cd62-4a42-bc77-d46eb04cc4c0",
+    "answer": "6,413",
+    "question": "How much was deferred compensation in 2019?",
+    "ground_truth": "6,413",
+    "human_score": null
+  },
+  {
+    "uid": "53535625-2cc1-419c-8549-f314eb9f45d2",
+    "answer": "recorded on our consolidated balance sheets in accrued expenses and other current liabilities-salaries and benefits.",
+    "question": "Where is the current portion of the post-retirement benefit obligations recorded?",
+    "ground_truth": "recorded on our consolidated balance sheets in accrued expenses and other current liabilities-salaries and benefits",
+    "human_score": null
+  },
+  {
+    "uid": "93d2d5a7-c935-458f-9518-5ac5ad4d065a",
+    "answer": "Operating income was also higher due to operational efficiencies and reductions in R&D spending.",
+    "question": "What resulted in a higher operating income?",
+    "ground_truth": "increased volumes of system development work and services, including work on new projects and change orders, primarily in North America and the U.K. Operating income was also higher due to operational efficiencies and reductions in R&D spending",
+    "human_score": null
+  },
+  {
+    "uid": "0f2292c7-725c-492e-83ed-034fb19934f0",
+    "answer": "22,450, 17,845",
+    "question": "What are the respective values of research and development expenses in 2018 and 2019?",
+    "ground_truth": "$22,450, $17,845",
+    "human_score": null
+  },
+  {
+    "uid": "1de692f8-6120-4869-8f3f-87d9d279ba55",
+    "answer": "327,616",
+    "question": "What was the net sales for the Jun-30 quarter?",
+    "ground_truth": "327,616",
+    "human_score": null
+  },
+  {
+    "uid": "5f8942ed-da44-444d-b8a3-0d3c1c44ecea",
+    "answer": "the ratio of the remuneration of each director to the median remuneration of the employees of the Company and percentage increase in remuneration of each Director, Chief Executive Officer, Chief Financial Officer and Company Secretary in the financial year",
+    "question": "What information does the second table column provide?",
+    "ground_truth": "The ratio of the remuneration of each director to the median remuneration of the employees of the Company",
+    "human_score": null
+  },
+  {
+    "uid": "73acdd65-df24-49de-9aef-582425ebb544",
+    "answer": "$1.8 million",
+    "question": "How much outstanding term loan with SVB was repaid during 2018?",
+    "ground_truth": "$1.8 million",
+    "human_score": null
+  },
+  {
+    "uid": "7ae60154-9b16-42e9-8f76-e183414c87d4",
+    "answer": "Richard S. Hill",
+    "question": "Who is the Chairman of the Board?",
+    "ground_truth": "Richard S. Hill",
+    "human_score": null
+  },
+  {
+    "uid": "a9f5e42c-fb33-4c42-81ee-73248d4964ae",
+    "answer": "392,238",
+    "question": "What was the Total long-term obligations in 2019?",
+    "ground_truth": "$392,238",
+    "human_score": null
+  },
+  {
+    "uid": "de00ea6c-4c0c-4998-98e8-b08b7fe115e8",
+    "answer": "Unbilled receivables are client committed amounts for which revenue recognition precedes billing, and billing is solely subject to the passage of time.",
+    "question": "What does unbilled receivables refer to?",
+    "ground_truth": "Unbilled receivables are client committed amounts for which revenue recognition precedes billing",
+    "human_score": null
+  },
+  {
+    "uid": "85e3701d-b40e-46c4-a73e-0a097f89cb4f",
+    "answer": "-10.9",
+    "question": "What was the change in the Computed expected income tax provision between 2017 and 2018?",
+    "ground_truth": "201.2",
+    "human_score": null
+  },
+  {
+    "uid": "299b7a98-3fce-49d7-b574-0fe6a5ea6096",
+    "answer": "S$3 billion",
+    "question": "What is the transaction price attributable to unsatisfied performance obligations for ICT services rendered by NCS Pte. Ltd.?",
+    "ground_truth": "S$3 billion",
+    "human_score": null
+  },
+  {
+    "uid": "b865473c-c04e-436d-badc-bc23da1ba075",
+    "answer": "65,015",
+    "question": "What was the Gross Profit in Three Months Ended June 30, 2019?",
+    "ground_truth": "$65,015",
+    "human_score": null
+  },
+  {
+    "uid": "d68ce3b6-42ee-4dde-bffa-252b6fb2f523",
+    "answer": "13.99",
+    "question": "What was the Weighted-Average Grant Date Fair Value Per Share for Time-Based RSUs and MSUs outstanding at January 1, 2017?",
+    "ground_truth": "51.35, 23.57",
+    "human_score": null
+  },
+  {
+    "uid": "6455ac3c-9f9b-4476-8384-9316cdb8a5e0",
+    "answer": "2019, 2018, 2017",
+    "question": "Which years does the table provide information for cash flow?",
+    "ground_truth": "2019, 2018, 2017",
+    "human_score": null
+  },
+  {
+    "uid": "75b0dfbe-df8b-4461-b851-6cef62e30ec3",
+    "answer": "based on the average share price for each fiscal period using the treasury stock method.",
+    "question": "How are dilutive RSUs calculated?",
+    "ground_truth": "based on the average share price for each fiscal period using the treasury stock method",
+    "human_score": null
+  },
+  {
+    "uid": "a6d50237-bde0-44f1-9d91-230df090dacc",
+    "answer": "(873)",
+    "question": "What were the General and administrative expenses in 2018?",
+    "ground_truth": "(873)",
+    "human_score": null
+  },
+  {
+    "uid": "0b290903-544e-4214-892b-bd2226eee9b9",
+    "answer": "While demand in the markets served by Siemens Healthineers continued to grow in fiscal 2019, these markets also showed price pressure on new purchases and increased utilization rates for installed systems. All major served markets were in a healthy state, which contributed to a slightly higher market growth in Europe, C. I. S., Africa, Middle East and the Americas, most notably in the imaging and advanced therapies markets.Markets in Asia, Australia grew moderately.Markets in the U. S. showed slight growth in the imaging and clear growth in the advanced therapies business, with continued moderate market growth in diagnostics.Government initiatives and programs, together with a growing private market segment contributed to the re-stabilization and growth of markets in China.For the healthcare industry as a whole, the trend towards consolidation continued in fiscal 2019, leading to higher utilization rates at customers’ sites, which are counterbalancing procedure volume growth in developed markets.",
+    "question": "How have the markets served by Siemens Healthineers responded in 2019?",
+    "ground_truth": "While demand in the markets served by Siemens Healthineers continued to grow in fiscal 2019, these markets also showed price pressure on new purchases and increased utilization rates for installed systems.",
+    "human_score": null
+  },
+  {
+    "uid": "5b62aa89-4c00-495f-9df8-b55ef9285d83",
+    "answer": "Revenue from the sale of hardware and software generally arises from contracts less than one year in length.",
+    "question": "What generally arises from contracts less than one year in length?",
+    "ground_truth": "Revenue from the sale of hardware and software",
+    "human_score": null
+  },
+  {
+    "uid": "3080d5e1-ea4a-45a3-a681-e406d8b67e2d",
+    "answer": "$6.75, $10.42, $12.07",
+    "question": "What were the weighted-average fair value of options granted during the years ended December 31, 2017, 2018, and 2019, respectively?",
+    "ground_truth": "$6.75, $10.42, $12.07",
+    "human_score": null
+  },
+  {
+    "uid": "b72cd1c1-f54d-42c2-abba-7366f75d9722",
+    "answer": "$2.8 billion",
+    "question": "What is the revenue from customers inside the U.S. in fiscal 2019?",
+    "ground_truth": "$2.8 billion",
+    "human_score": null
+  },
+  {
+    "uid": "e34aa446-4aa5-402b-a715-c1e1466f8067",
+    "answer": "3,658,391, 3,125,644",
+    "question": "What are the respective values of the company's net long term debt in 2018 and 2019?",
+    "ground_truth": "$3,658,391, $3,125,644",
+    "human_score": null
+  },
+  {
+    "uid": "41b360d5-9ac5-4a91-9f13-4a347b5873cf",
+    "answer": "a $5,000,000 equity award consisting of 50% service-based RSUs and 50% stock options with a four-year vesting schedule",
+    "question": "What did the independent members of the Board grant Mr Archer on December 6, 2018?",
+    "ground_truth": "a $5,000,000 equity award consisting of 50% service-based RSUs, 50% stock options with a four-year vesting schedule",
+    "human_score": null
+  },
+  {
+    "uid": "0bc6c2a8-14b9-41fe-90cc-fcd6fe9505bb",
+    "answer": "1786.5",
+    "question": "What was the difference the effect of ASC 606 Adoption between Total Assets and Total Liabilities?",
+    "ground_truth": "22.3",
+    "human_score": null
+  },
+  {
+    "uid": "23676f86-e2a4-445f-b8fa-8369b6633896",
+    "answer": "2020, 2019",
+    "question": "Which years does the table provide information for unearned revenue?",
+    "ground_truth": "2020, 2019",
+    "human_score": null
+  },
+  {
+    "uid": "1b79c093-0bf7-4f49-960c-ffccbaca96d6",
+    "answer": "$1.8 million relating to deferred costs which has been reclassified from trade and other receivables; see note 2 for further details.",
+    "question": "What does Finished goods in 2018 include?",
+    "ground_truth": "$1.8 million relating to deferred costs which has been reclassified from trade and other receivables",
+    "human_score": null
+  },
+  {
+    "uid": "eac9a6a8-dca4-41a0-81d6-41a846aa78a2",
+    "answer": "2,244, 2,665",
+    "question": "What are the respective state income taxes, net of federal benefit in 2017 and 2018?",
+    "ground_truth": "2,244, 2,665",
+    "human_score": null
+  },
+  {
+    "uid": "8dccb03a-9fe1-4530-b9e2-db89ffd1aab2",
+    "answer": "335,372 shares",
+    "question": "How many shares did the company repurchase during the year ended December 31, 2019?",
+    "ground_truth": "335,372 shares",
+    "human_score": null
+  },
+  {
+    "uid": "b62dcd06-7b21-44e4-99c6-c2cb093be08a",
+    "answer": "152,793",
+    "question": "What was the working capital in 2018?",
+    "ground_truth": "152,793",
+    "human_score": null
+  },
+  {
+    "uid": "e0e61b7a-87e8-40f6-a1b5-dab801d3d96c",
+    "answer": "components of an enterprise for which separate financial information is regularly evaluated by the chief operating decision maker in deciding how to allocate resources and assess performance.",
+    "question": "What are operating segments?",
+    "ground_truth": "Operating segments are defined as components of an enterprise for which separate financial information is regularly evaluated by the chief operating decision maker (“CODM”), which is the Company’s chief executive officer, in deciding how to allocate resources and assess performance.",
+    "human_score": null
+  },
+  {
+    "uid": "4bd7d225-fbc4-4241-a49e-a500c0f93123",
+    "answer": "$28.7 million",
+    "question": "What is the cash amount paid for income taxes, net of refunds received in 2019?",
+    "ground_truth": "$28.7 million",
+    "human_score": null
+  },
+  {
+    "uid": "27510e72-3c85-43af-85cf-58cb2756c4e3",
+    "answer": "13 May 2019",
+    "question": "When did the Post-IPO Option Scheme III expire?",
+    "ground_truth": "13 May 2019",
+    "human_score": null
+  },
+  {
+    "uid": "cdffaea0-4cba-4479-b3f7-5910a1bf2bb8",
+    "answer": "perform ongoing credit evaluations of our customers’ financial condition.",
+    "question": "How does the company monitor potential expected credit losses?",
+    "ground_truth": "perform ongoing credit evaluations of our customers’ financial condition",
+    "human_score": null
+  },
+  {
+    "uid": "37369d05-ed53-4d91-a3f1-782270cde513",
+    "answer": "2,329",
+    "question": "What was the balance at the beginning of period in 2017?",
+    "ground_truth": "$2,329",
+    "human_score": null
+  },
+  {
+    "uid": "69abf629-3dbc-4980-90d7-ec6f93fe0995",
+    "answer": "Revenues from The Cool Pool Limited relate only to the pool revenues received from GasLog’s vessels operating in the Cool Pool and do not include the Net pool allocation to GasLog",
+    "question": "What does the revenues from The Cool Pool Limited represent?",
+    "ground_truth": "Revenues from The Cool Pool Limited relate only to the pool revenues received from GasLog’s vessels operating in the Cool Pool",
+    "human_score": null
+  },
+  {
+    "uid": "6051ac9f-0c5a-4e04-8b5c-23d52cd81876",
+    "answer": "2019, 2018",
+    "question": "Which years does the table provide information for property and equipment information for geographic areas based on the physical location of the assets?",
+    "ground_truth": "2019, 2018",
+    "human_score": null
+  },
+  {
+    "uid": "9e000015-6e02-47a2-86da-6b3f51b8484e",
+    "answer": "18700",
+    "question": "What is the difference in net rent expense between 2017 and 2018?",
+    "ground_truth": "18700",
+    "human_score": null
+  },
+  {
+    "uid": "2fb32581-289c-4815-a3b0-2a1fcfbac96a",
+    "answer": "because of the short-term nature of trade and other payables, their carrying amount is considered to be the same as their fair value.",
+    "question": "Why was the carrying amount of trade payables considered to be the same as their fair value?",
+    "ground_truth": "Due to the short-term nature of trade and other payables",
+    "human_score": null
+  },
+  {
+    "uid": "18d47da9-5b78-4fed-abc0-dc0aed1059ff",
+    "answer": "2",
+    "question": "How many years did Cummins Inc. occupy more than 15% of the company's total net sales?",
+    "ground_truth": "2",
+    "human_score": null
+  },
+  {
+    "uid": "168a4d08-86d1-4ce7-b499-5478fe4e4d78",
+    "answer": "138.9",
+    "question": "What is the average value of stock options in 2018 and 2019?",
+    "ground_truth": "243",
+    "human_score": null
+  },
+  {
+    "uid": "197d7fb8-f952-4cc0-af81-b5b415fb9f84",
+    "answer": "-10.99",
+    "question": "What was the change in Intrinsic value of exercises between 2017 and 2018?",
+    "ground_truth": "11",
+    "human_score": null
+  },
+  {
+    "uid": "94351818-95d6-460f-a853-ac603191fe95",
+    "answer": "42.00000000000001",
+    "question": "What was the percentage change in net income attributable in relation to the non-controlling shareholders who hold interests in Hilli LLC?",
+    "ground_truth": "85.28",
+    "human_score": null
+  },
+  {
+    "uid": "3175101d-b336-44d6-a2d8-0c4f93b63093",
+    "answer": "a bond yield curve expanded to also include bonds rated AA by one credit agency (and which might for example be rated A or AAA by other agencies).",
+    "question": "What was the discount rate at 30 March 2019 based on?",
+    "ground_truth": "a bond yield curve expanded to also include bonds rated AA by one credit agency (and which might for example be rated A or AAA by other agencies).",
+    "human_score": null
+  },
+  {
+    "uid": "6c29f60e-4be1-4e9f-9f60-b68dd16c9f91",
+    "answer": "12.2",
+    "question": "What is the change in Inventories: Work in process from December 31, 2018 to 2019?",
+    "ground_truth": "12.2",
+    "human_score": null
+  },
+  {
+    "uid": "e2ca8ded-6bd2-421b-a1e3-eff89e8c935f",
+    "answer": "$75.8 million",
+    "question": "What was the reduction to valuation allowance in 2018?",
+    "ground_truth": "$75.8 million",
+    "human_score": null
+  },
+  {
+    "uid": "d60bd6bd-0014-44f8-becf-7692d4980788",
+    "answer": "2018, 2019",
+    "question": "Which years does the table provide information for the components of the accounts receivables for the company?",
+    "ground_truth": "2019, 2018",
+    "human_score": null
+  },
+  {
+    "uid": "5ef8b56d-62ad-4a77-aeb6-40fd33100f5c",
+    "answer": "624",
+    "question": "What were the cost of sales in 2019?",
+    "ground_truth": "624",
+    "human_score": null
+  },
+  {
+    "uid": "7dfc9788-694d-4ecb-b849-0062699408b3",
+    "answer": "711.7",
+    "question": "What was the reported amount of inventories?",
+    "ground_truth": "711.7",
+    "human_score": null
+  },
+  {
+    "uid": "a7b6dc41-f16a-43de-8969-66cd8e76f2ba",
+    "answer": "9,106, 5,292",
+    "question": "What is the net cash used in financing activities in 2019 and 2018 respectively?",
+    "ground_truth": "9,106, 5,292",
+    "human_score": null
+  },
+  {
+    "uid": "fd4db157-3652-4856-9544-ebb5086d1ae8",
+    "answer": "15.3, 1.9",
+    "question": "What are the respective cost of revenues from operations in 2018 and 2019 respectively?",
+    "ground_truth": "15.3, 1.9",
+    "human_score": null
+  },
+  {
+    "uid": "9bfbde25-e895-4f3b-a3af-919a7881ee84",
+    "answer": "2019, 2018",
+    "question": "Which years does the table provide information for other non-current assets of the company?",
+    "ground_truth": "2019, 2018",
+    "human_score": null
+  },
+  {
+    "uid": "ca296636-064f-4bb6-9363-aadb51392f5f",
+    "answer": "18,398",
+    "question": "What was the net income(loss) in 2019?",
+    "ground_truth": "$18,398",
+    "human_score": null
+  },
+  {
+    "uid": "2159f9e8-b2cc-4ceb-ac27-ea07cc108371",
+    "answer": "lower recognition of amortization of acquisition-related deferred revenue adjustments, which reflect the fair value adjustments to deferred revenues acquired in the EIS Business, Practice Fusion, Health Grid and NantHealth provider/patient engagement acquisitions.",
+    "question": "What led to increase in revenue for the year ended December 31, 2018 compared to the prior year?",
+    "ground_truth": "due to lower recognition of amortization of acquisition-related deferred revenue adjustments, which reflect the fair value adjustments to deferred revenues acquired in the EIS Business, Practice Fusion, Health Grid and NantHealth provider/patient engagement acquisitions.",
+    "human_score": null
+  },
+  {
+    "uid": "94f0eb86-110c-41e9-ac81-737ce51811bb",
+    "answer": "2018",
+    "question": "In which year is the amortization of purchased intangibles included in the CGD results larger?",
+    "ground_truth": "2018",
+    "human_score": null
+  },
+  {
+    "uid": "bd1f90bc-3e55-47bd-aa81-0f612214e4d9",
+    "answer": "-15.600000000000002",
+    "question": "What was the percentage change in the total Mortgage loan originations between 2018 and 2019?",
+    "ground_truth": "25.87",
+    "human_score": null
+  },
+  {
+    "uid": "75bd228d-f62a-4772-90e6-d7861ff5ec57",
+    "answer": "886, 1,360",
+    "question": "What are the respective adjustments to stock and share-based compensation in 2018 and 2019?",
+    "ground_truth": "886, 1,360",
+    "human_score": null
+  },
+  {
+    "uid": "080dce85-fdb7-4b09-a2c6-d0060182f7db",
+    "answer": "strengthens and scales the National Storage operating platform which drives efficiencies across the business.",
+    "question": "What are the benefits of active growth strategy?",
+    "ground_truth": "strengthens and scales the National Storage operating platform which drives efficiencies across the business.",
+    "human_score": null
+  },
+  {
+    "uid": "f33b6dc1-3a5a-451d-ba0e-2a7540bd8fbd",
+    "answer": "2019, 2018",
+    "question": "Which years does the table provide information for the company's Other income and expense items?",
+    "ground_truth": "2019, 2018",
+    "human_score": null
+  },
+  {
+    "uid": "74f43f38-e7ee-4df4-9711-20e75b87fc5e",
+    "answer": "139",
+    "question": "How many assets was in the Level 2 Multi-Asset fund for 2019?",
+    "ground_truth": "$4,825",
+    "human_score": null
+  },
+  {
+    "uid": "211f1359-2e2d-4957-b982-fbec4f593b2c",
+    "answer": "5,604",
+    "question": "What was the amount of Furniture, fixtures and office equipment in 2019?",
+    "ground_truth": "$5,604",
+    "human_score": null
+  },
+  {
+    "uid": "36194f48-748b-4d41-ad84-8bfc1d2566b1",
+    "answer": "26.3",
+    "question": "What was the average compensation expense over the period from 2017 to 2019?",
+    "ground_truth": "26.27",
+    "human_score": null
+  },
+  {
+    "uid": "00647551-cbe0-4445-95de-ecb28370d36e",
+    "answer": "2017",
+    "question": "In which year was the Exercisable amount the largest?",
+    "ground_truth": "2017",
+    "human_score": null
+  },
+  {
+    "uid": "fa4b958a-06fb-44f1-b6fa-6ea5b940ec42",
+    "answer": "$(383,798)",
+    "question": "What was the Loss from continuing operations in 2019?",
+    "ground_truth": "$(383,798)",
+    "human_score": null
+  },
+  {
+    "uid": "feeec7b8-d460-4dc9-a2bd-3ab77807fa74",
+    "answer": "13.3, 11.8",
+    "question": "What were the total compensation expenses for performance share awards during fiscal 2017 and 2018, respectively?",
+    "ground_truth": "$13.3 million, $11.8 million",
+    "human_score": null
+  },
+  {
+    "uid": "26330067-6e6f-49a9-b397-3e5affdb6aa1",
+    "answer": "4",
+    "question": "What was the change in Restricted cash within other assets between 2019 and 2020?",
+    "ground_truth": "4",
+    "human_score": null
+  },
+  {
+    "uid": "dad37e6f-4ae5-43b0-8ed6-ffefd698e40f",
+    "answer": "a billing schedule, as established in the contract",
+    "question": "On what basis does the Group receive payments from customers?",
+    "ground_truth": "based on a billing schedule, as established in the contract",
+    "human_score": null
+  },
+  {
+    "uid": "d8ef90d0-893e-444d-ab4f-cc026637f917",
+    "answer": "unexercised share options and the Performance Share Plan.",
+    "question": "What is the dilution of earnings per share in respect of?",
+    "ground_truth": "unexercised share options and the Performance Share Plan.",
+    "human_score": null
+  },
+  {
+    "uid": "fa1e166e-890c-47b1-8f2e-b0301dc4fbdc",
+    "answer": "Excluding the effects of currency rate fluctuations, our total services revenues decreased in fiscal 2019 relative to fiscal 2018 primarily due to revenue declines in our education services and, to a lesser extent, our consulting services.",
+    "question": "Why did the total services revenue decrease in fiscal 2019 relative to fiscal 2018?",
+    "ground_truth": "Excluding the effects of currency rate fluctuations, our total services revenues decreased in fiscal 2019 relative to fiscal 2018 primarily due to revenue declines in our education services and, to a lesser extent, our consulting services.",
+    "human_score": null
+  },
+  {
+    "uid": "225cb71d-c298-4dd1-bb95-35404c0694db",
+    "answer": "$2,257 million",
+    "question": "What is the amount of right-of-use assets recognized for property, plant and equipment under the adoption of IFRS 16 in 2019?",
+    "ground_truth": "$2,257 million",
+    "human_score": null
+  },
+  {
+    "uid": "efdca549-cc7b-4975-8025-7e7b70ba3426",
+    "answer": "property tax, motor vehicle tax, excise tax and transaction tax",
+    "question": "What are examples of taxes under Other taxes?",
+    "ground_truth": "property tax, motor vehicle tax, excise tax and transaction tax",
+    "human_score": null
+  },
+  {
+    "uid": "f70a8ac0-3186-49fc-8676-6c818a32294e",
+    "answer": "62",
+    "question": "What was the amount of Gross increases for tax positions of prior years in 2019?",
+    "ground_truth": "62",
+    "human_score": null
+  },
+  {
+    "uid": "23204f61-784c-4039-a920-190a9777933c",
+    "answer": "-1168",
+    "question": "What was the change in purchase commitments that were less than 1 year between 2018 and 2019?",
+    "ground_truth": "-1168",
+    "human_score": null
+  },
+  {
+    "uid": "c62ed836-13c8-4d88-8d45-0705b0e654e1",
+    "answer": "over the expected remaining future lifetime for inactive participants",
+    "question": "For SERP, how are actuarial losses amortized?",
+    "ground_truth": "Over the expected remaining future lifetime for inactive participants",
+    "human_score": null
+  },
+  {
+    "uid": "6d3ec442-6c74-4b99-8257-a7ddebf283e2",
+    "answer": "dividing net loss by the weighted average number of shares of common stock outstanding during the period.",
+    "question": "How is basic net loss per common share computed?",
+    "ground_truth": "by dividing net loss by the weighted-average number of shares of common stock outstanding during the period.",
+    "human_score": null
+  },
+  {
+    "uid": "73968b21-b92e-49df-a164-f6c850323432",
+    "answer": "RD&E expense increased 11.3 percent in 2019 versus 2018 primarily driven by: • Higher spending (11 points) including investment in the z15 and Red Hat spending in the second half of 2019 (8 points); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-related charges associated with the Red Hat transaction (1 point); • Higher acquisition-",
+    "question": "What caused the increase in the RD&E expenses?",
+    "ground_truth": "RD&E expense increased 11.3 percent in 2019 versus 2018 primarily driven by: • Higher spending (11 points) including investment in the z15 and Red Hat spending in the second half of 2019 (8 points); and • Higher acquisition-related charges associated with the Red Hat transaction (1 point); partially offset by • The effects of currency (1 point).",
+    "human_score": null
+  },
+  {
+    "uid": "f55245bd-b2ba-493b-bd8d-f6a9f614fb83",
+    "answer": "8.3",
+    "question": "Excluding the net for a claim of overpaid taxes related to 2015 through 2018 for 2019, what is the Other, net for 2019?",
+    "ground_truth": "3.5",
+    "human_score": null
+  },
+  {
+    "uid": "3d9530bd-901d-4ff7-830b-022d983bbff5",
+    "answer": "100.00",
+    "question": "What is the percentage of options granted during the year ended December 2018 as a percentage of the number of nonvested options remaining as at 31 December 2018?",
+    "ground_truth": "34.99",
+    "human_score": null
+  },
+  {
+    "uid": "8065ff72-eb8e-42db-a17b-6c2e69e42da2",
+    "answer": "the growth in GPV processed of $19.3 billion, or 30%, to $84.7 billion from $65.3 billion. We continued to see ongoing success with attracting and enabling large seller growth, which we believe will help drive strong GPV growth as we scale.",
+    "question": "What was the cause of the increase in transaction-based revenue from 2017 to 2018?",
+    "ground_truth": "the growth in GPV processed of $19.3 billion, or 30%, to $84.7 billion from $65.3 billion",
+    "human_score": null
+  },
+  {
+    "uid": "e99e2981-fa7b-4dd0-8efe-309cf9905d6b",
+    "answer": "$90.0 million",
+    "question": "What was the intrinsic value related to vested RSUs for the year ended December 31, 2018?",
+    "ground_truth": "$90.0 million",
+    "human_score": null
+  },
+  {
+    "uid": "655dc6f3-2f8e-4898-a961-6d52ee2b4722",
+    "answer": "82.3%",
+    "question": "What is the ownership of Cogeco in Cogeco Communications in terms of voting shares?",
+    "ground_truth": "82.3%",
+    "human_score": null
+  },
+  {
+    "uid": "49e76bdd-2038-4faf-9d36-05f16d1b212c",
+    "answer": "8.1 million shares were available for future issuance.",
+    "question": "At January 31, 2019, how many shares were available for future issuance?",
+    "ground_truth": "8.1 million",
+    "human_score": null
+  },
+  {
+    "uid": "41c13d9f-3aac-4f7f-90e3-e031acac7a74",
+    "answer": "94,286",
+    "question": "What was the total balance as of January 1, 2018?",
+    "ground_truth": "$94,286",
+    "human_score": null
+  },
+  {
+    "uid": "58531799-5c84-4cda-883a-47776d1560fb",
+    "answer": "Includes charges of $2.0 billion or $2.23 of diluted earnings per share in 2018 associated with U.S. tax reform.",
+    "question": "What charges were included in 2018?",
+    "ground_truth": "Includes charges of $2.0 billion or $2.23 of diluted earnings per share in 2018 associated with U.S. tax reform.",
+    "human_score": null
+  },
+  {
+    "uid": "87a933c2-3928-45ab-97ec-148460a88585",
+    "answer": "miscellaneous revenue items that are individually immaterial",
+    "question": "What does other revenue include?",
+    "ground_truth": "miscellaneous revenue items that are individually immaterial. Other revenue is presented separately herein in order to clearly present merchant, interchange and servicing fees",
+    "human_score": null
+  },
+  {
+    "uid": "23d23f8c-b67c-4d4d-95dd-05a22497a0b3",
+    "answer": "a diversified growth fund actively managed by Russell Investments in association with Aon Hewitt",
+    "question": "Where are the assets in the investment fund in the preceding table held?",
+    "ground_truth": "The assets held in the investment fund in the preceding table are invested in a diversified growth fund actively managed by Russell Investments in association with Aon Hewitt",
+    "human_score": null
+  },
+  {
+    "uid": "297ae9f3-5ef8-435e-a4e7-e0b97a049904",
+    "answer": "2.25",
+    "question": "What is the proportion of basic weighted average shares outstanding over diluted weighted average shares outstanding in 2018?",
+    "ground_truth": "0.99",
+    "human_score": null
+  },
+  {
+    "uid": "bca96ba5-0cb7-4a58-a373-f8d78ff40df1",
+    "answer": "dependent upon global automotive production, and seasonal declines in European production may negatively impact net sales in the fourth fiscal quarter.",
+    "question": "What are sales in the automotive market dependent upon?",
+    "ground_truth": "dependent upon global automotive production, and seasonal declines in European production may negatively impact net sales in the fourth fiscal quarter",
+    "human_score": null
+  },
+  {
+    "uid": "d26e414c-3c4a-463b-ae86-6cacf89c99ca",
+    "answer": "1.75",
+    "question": "How much would diluted earnings per share for fiscal year 2018 be without the net charge (benefit) related to the enactment of the TCJA?",
+    "ground_truth": "3.88",
+    "human_score": null
+  },
+  {
+    "uid": "6d3f5f05-15dc-43ed-9eba-319cd3a2d9ab",
+    "answer": "47,649",
+    "question": "What is the total capital expenditure in 2019?",
+    "ground_truth": "$47,649",
+    "human_score": null
+  },
+  {
+    "uid": "fd8145eb-3a55-4f20-9665-1b1cf2e9957a",
+    "answer": "-54.83",
+    "question": "What is the percentage change in the deferred revenue balance from 2018 to 2019?",
+    "ground_truth": "-54.83",
+    "human_score": null
+  },
+  {
+    "uid": "54f1b24b-83a7-4726-8606-25ff6a27b5c0",
+    "answer": "dividing the net income (loss) by the weighted average number of shares of common stock outstanding for the period.",
+    "question": "How is the basic earnings per share calculated?",
+    "ground_truth": "by dividing the net income (loss) by the weighted average number of shares of common stock outstanding for the period.",
+    "human_score": null
+  },
+  {
+    "uid": "66f546aa-8ae3-40fc-a92c-d0f582515222",
+    "answer": "203,242",
+    "question": "What was the net total deferred revenue in 2019?",
+    "ground_truth": "203,242",
+    "human_score": null
+  },
+  {
+    "uid": "4020e438-cb29-49a7-9cbe-5b3902283105",
+    "answer": "58,640",
+    "question": "What was the Pro forma common shares - diluted in 2018?",
+    "ground_truth": "58,640",
+    "human_score": null
+  },
+  {
+    "uid": "9ec8bd49-bf1e-4116-a726-ee46b7421b99",
+    "answer": "$6.4 million, or 9.3%, driven by growth in customers using our on premise software products that require the payment of support and maintenance along with continued increases in subscription based revenue, which increased 23.5% in fiscal 2019 compared to fiscal 2018.",
+    "question": "What was the increase in the support, maintenance and subscription?",
+    "ground_truth": "$6.4 million, or 9.3%",
+    "human_score": null
+  },
+  {
+    "uid": "9bad213f-ccf8-4427-9bb8-ac113829602a",
+    "answer": "-3,912",
+    "question": "What was the balance at the end of period in 2018?",
+    "ground_truth": "-$3,912",
+    "human_score": null
+  },
+  {
+    "uid": "a3da2ce6-b230-4c38-9367-8ad41f0bb2b8",
+    "answer": "10564",
+    "question": "What were the Foreign currency (gains) losses recorded in Other expense in 2018?",
+    "ground_truth": "4.5",
+    "human_score": null
+  },
+  {
+    "uid": "57ef4052-25ad-4cdc-bbd7-192580a29bb3",
+    "answer": "(8,406)",
+    "question": "What was the net cash used in financing activities for 2019?",
+    "ground_truth": "$8.4 million",
+    "human_score": null
+  },
+  {
+    "uid": "f14b10bd-37ed-4000-9a60-2e21d3116c16",
+    "answer": "4.73",
+    "question": "What is the average annual amount of unvested restricted stock awards that are antidilutive excluded in 2017, 2018 and 2019?",
+    "ground_truth": "4.73",
+    "human_score": null
+  },
+  {
+    "uid": "e262fb16-3999-4bdb-a15a-642e2aa1c0ec",
+    "answer": "using a longevity swap, which reduces the exposure of the DB plans to an increase in life expectancy.",
+    "question": "How is longevity risk managed?",
+    "ground_truth": "using a longevity swap, which reduces the exposure of the DB plans to an increase in life expectancy.",
+    "human_score": null
+  },
+  {
+    "uid": "c185e7bb-145b-4627-8c44-4ccd4e4e9a3e",
+    "answer": "several of our pension plans transferred in the sale of Diversey. Two international plans were split between Diversey and Sealed Air at the close of the sale.",
+    "question": "What occured during the year ended December 31, 2017?",
+    "ground_truth": "several of our pension plans transferred in the sale of Diversey. Two international plans were split between Diversey and Sealed Air at the close of the sale.",
+    "human_score": null
+  },
+  {
+    "uid": "95d7bb74-4a83-4b78-8ba3-2e1b98e4583c",
+    "answer": "207",
+    "question": "What were the accrued partner liabilities in 2019?",
+    "ground_truth": "207",
+    "human_score": null
+  },
+  {
+    "uid": "acc3e96f-0cc9-46f8-b40f-fcf2da76959c",
+    "answer": "2023, 2022",
+    "question": "Which years does the table provide information for the amortization of purchased intangible assets?",
+    "ground_truth": "2019, 2018, 2017",
+    "human_score": null
+  },
+  {
+    "uid": "b365f625-23ea-4069-aadb-e487a47ccc9e",
+    "answer": "15.1",
+    "question": "What was the change in Other from Deferred tax assets valuation allowance between Fiscal 2017 and 2018?",
+    "ground_truth": "11514",
+    "human_score": null
+  },
+  {
+    "uid": "a5b07249-6d68-438d-8148-e89b3885b764",
+    "answer": "highly-rated securities with low probabilities of default.",
+    "question": "Where does the company typically invest?",
+    "ground_truth": "highly-rated securities with low probabilities of default",
+    "human_score": null
+  },
+  {
+    "uid": "3e84da74-5593-46f6-a47f-018026dcecad",
+    "answer": "total net sales",
+    "question": "What are the net sales by geographic region in the table presented as a percentage of?",
+    "ground_truth": "total net sales",
+    "human_score": null
+  },
+  {
+    "uid": "80d2ddc0-ac4b-479c-bee7-05ab89c1d09c",
+    "answer": "-1.25",
+    "question": "What was the percentage change in total vessel operating and supervision costs from 2018 to 2019?",
+    "ground_truth": "9.04",
+    "human_score": null
+  },
+  {
+    "uid": "76260f94-a37f-4173-842e-dd363dd18283",
+    "answer": "111756",
+    "question": "What is the difference in the value of time deposits and restricted investments as of December 31, 2019?",
+    "ground_truth": "111756",
+    "human_score": null
+  },
+  {
+    "uid": "c15f5560-4615-4be2-ad14-a9494d3531d2",
+    "answer": "(a) stock options, (b) restricted stock, (c) deferred stock, (d) stock appreciation rights, and (e) other stock-based awards including restricted stock units.",
+    "question": "What are the types of awards that may be granted under the 2013 Stock Incentive Plan?",
+    "ground_truth": "(a) stock options, (b) restricted stock, (c) deferred stock, (d) stock appreciation rights, and (e) other stock-based awards including restricted stock units.",
+    "human_score": null
+  },
+  {
+    "uid": "93c842a1-5a07-40cf-a651-63d7d5b22557",
+    "answer": "2",
+    "question": "How many of the non-current liabilities components in 2018 were above $500 million?",
+    "ground_truth": "2",
+    "human_score": null
+  },
+  {
+    "uid": "9094f8f7-e376-4aa9-9dcb-ef1c688c4daa",
+    "answer": "$23.2, $32.0",
+    "question": "What were the compensation expenses relating to outstanding options as a component of general and administrative expenses during 2018 and 2019, respectively?",
+    "ground_truth": "$23.2, $32.0",
+    "human_score": null
+  },
+  {
+    "uid": "335c8f44-c6f7-4276-a20b-388ce7a21bc8",
+    "answer": "£1,216m of the contract liability recognised at 1 April 2018 was recognised as revenue during the year.",
+    "question": "How much contract liability was recognised at 1 April 2018?",
+    "ground_truth": "£1,216m of the contract liability recognised at 1 April 2018",
+    "human_score": null
+  },
+  {
+    "uid": "a36d9ebd-abc0-4fca-b75a-ce7049e116c2",
+    "answer": "summary of the changes in common shares available for awards under the Omnibus Incentive Plan and Predecessor Plans",
+    "question": "What does the table represent?",
+    "ground_truth": "summary of the changes in common shares available for awards under the Omnibus Incentive Plan and Predecessor Plans",
+    "human_score": null
+  },
+  {
+    "uid": "0fdf8e7b-0e2c-4184-8bb5-3676451dc833",
+    "answer": "$6 million",
+    "question": "What was the compensation cost excluding payroll tax and social contribution, capitalised as a part of inventory as of 31 December 2019?",
+    "ground_truth": "$6 million",
+    "human_score": null
+  },
+  {
+    "uid": "0555d421-04cc-4a94-9811-89038e14030c",
+    "answer": "4% for the CEO and 3% for the CFO, effective from 1 January 2020.",
+    "question": "What is the increase in the Fixed Pay approved by the committee?",
+    "ground_truth": "The Committee has approved Fixed Pay increases of 4% for the CEO and 3% for the CFO, effective from 1 January 2020.",
+    "human_score": null
+  },
+  {
+    "uid": "f1b1eb87-99df-429d-a4ea-ccbbbc36dd78",
+    "answer": "132.73",
+    "question": "What was the percentage change in the Purchases of property, equipment and software between 2018 and 2019?",
+    "ground_truth": "133.33",
+    "human_score": null
+  },
+  {
+    "uid": "49d3437b-9965-4ec1-89e9-12f095248b9b",
+    "answer": "$62.4 million",
+    "question": "What was the total unrecognized stock-based compensation expense in 2019?",
+    "ground_truth": "$62.4 million",
+    "human_score": null
+  },
+  {
+    "uid": "b01864e7-0e92-4b21-9258-b2070a0ed07c",
+    "answer": "£313.0m",
+    "question": "What was the amount of borrowings the Group had as at 31 March 2019?",
+    "ground_truth": "borrowings of £313.0m (2018: £343.0m) through its Syndicated revolving credit facility (2018: Syndicated Term Loan).",
+    "human_score": null
+  },
+  {
+    "uid": "1463ef87-0ea4-461d-80ee-caac388d03db",
+    "answer": "the membership profile, the liquidity requirements of the plan, and risk appetite of the Group.",
+    "question": "What factors are taken into consideration when setting the asset allocation of the plan?",
+    "ground_truth": "the membership profile, the liquidity requirements of the plan, and risk appetite of the Group.",
+    "human_score": null
+  },
+  {
+    "uid": "759455a8-7316-423f-a3d2-61479fc67156",
+    "answer": "three years from the grant date if certain performance criteria are achieved and require continued employment.",
+    "question": "How long do market-based PRSUs usually vest from grant date?",
+    "ground_truth": "three years",
+    "human_score": null
+  },
+  {
+    "uid": "3743bc30-394e-49ba-b67a-5e602cadaa68",
+    "answer": "19,036",
+    "question": "What was the amount of unbilled receivables in 2019?",
+    "ground_truth": "19,036",
+    "human_score": null
+  },
+  {
+    "uid": "197b8b9f-6fd9-45fb-90ff-762a45c92a60",
+    "answer": "(500)",
+    "question": "What was the loss on sale in 2017?",
+    "ground_truth": "(500)",
+    "human_score": null
+  },
+  {
+    "uid": "558f1986-472d-454c-9b8c-7ca364a5f9cc",
+    "answer": "(461), 533",
+    "question": "What is the deferred provision (benefit) for income tax for 2018 and 2019 respectively?",
+    "ground_truth": "(461), 533",
+    "human_score": null
+  },
+  {
+    "uid": "36789d0d-634b-43f6-bcfa-162f5d241c53",
+    "answer": "revolving credit facility of $300,000, which may be increased by $150,000 at the request of the Company, subject to the administrative agent's approval. The Revolving Credit Facility includes a swing line sublimit of $15,000 and a letter of credit sublimit of $10,000.",
+    "question": "What does the Credit Agreement provide for?",
+    "ground_truth": "revolving credit facility of $300,000, which may be increased by $150,000 at the request of the Company, subject to the administrative agent's approval.",
+    "human_score": null
+  },
+  {
+    "uid": "cd57785b-5d99-4b03-b89b-64165ec66e75",
+    "answer": "endpoint security, advanced threat protection, and information protection solutions and their related support services.",
+    "question": "What do Endpoint and information protection products include?",
+    "ground_truth": "endpoint security, advanced threat protection, and information protection solutions and their related support services",
+    "human_score": null
+  },
+  {
+    "uid": "60cdb35a-f9fe-4ea4-b0ef-76bc07b201eb",
+    "answer": "-1000000000000000000",
+    "question": "What was the change in Total deferred provision between 2018 and 2019?",
+    "ground_truth": "-9005",
+    "human_score": null
+  },
+  {
+    "uid": "d8d0a66a-85da-41cf-a64f-8204dec4e3ce",
+    "answer": "59,226",
+    "question": "What was the Net deferred tax assets in 2019?",
+    "ground_truth": "$59,226",
+    "human_score": null
+  },
+  {
+    "uid": "51281cc6-5bd2-4ac6-a4dc-658ebdb83222",
+    "answer": "Customer operations, Product and technology, Corporate",
+    "question": "What are the categories of employees listed in the table?",
+    "ground_truth": "Customer operations, Product and technology, Corporate",
+    "human_score": null
+  },
+  {
+    "uid": "a99fefae-170b-48f9-bff0-8e8a341082f3",
+    "answer": "0.15",
+    "question": "What is the ratio of International’s consolidated total to Pinnacle Foods’ consolidated total?",
+    "ground_truth": "0.2",
+    "human_score": null
+  },
+  {
+    "uid": "fe95aa27-66f0-4891-98ad-e989e0b0edf2",
+    "answer": "the company's obligation to make future purchases based on existing agreements or contracts.",
+    "question": "What do the purchase commitments represent?",
+    "ground_truth": "Amounts represent purchase commitments, including open purchase orders and take-or-pay contracts that are not presented as construction commitments above.",
+    "human_score": null
+  },
+  {
+    "uid": "0bbfa0d2-dbf2-4560-8b08-b53a51f0994f",
+    "answer": "The Compensation Committee did not exercise its discretion to reduce any payouts.",
+    "question": "Were any payouts reduced by the Compensation Committee?",
+    "ground_truth": "The Compensation Committee did not exercise its discretion to reduce any payouts",
+    "human_score": null
+  },
+  {
+    "uid": "7f01a1fe-05e7-4ead-93cd-6a0cc29f05cf",
+    "answer": "119, 118",
+    "question": "What are the respective number of options forfeited or expired in the 2019 and 2009 plans?",
+    "ground_truth": "26, 2",
+    "human_score": null
+  },
+  {
+    "uid": "6f859c4e-1d4a-4fbf-89d8-a00fab37a735",
+    "answer": "-100.00000000000001",
+    "question": "What was the percentage change in the balance at end of fiscal year between 2018 and 2019?",
+    "ground_truth": "-61.14",
+    "human_score": null
+  },
+  {
+    "uid": "7d11b06c-f536-4832-93a4-b445966f8726",
+    "answer": "-1.25",
+    "question": "What is the change in the amount of accounts receivable as a percentage of revenue from customer A between 2018 and 2019?",
+    "ground_truth": "-6",
+    "human_score": null
+  },
+  {
+    "uid": "1ac92256-dcb9-4c46-987d-6e1b25317909",
+    "answer": "in accordance with FASB ASC Topic 260, Earnings per Share.",
+    "question": "How does the company calculate net income (loss) per share?",
+    "ground_truth": "in accordance with FASB ASC Topic 260,Earnings per Share",
+    "human_score": null
+  },
+  {
+    "uid": "e40623df-4eed-4be2-ac7d-ef412c83e5ea",
+    "answer": "The Systems gross profit margin decrease year to year was driven by the mix away from IBM Z and margin declines in Power Systems and Storage Systems.",
+    "question": "Did the Systems gross profit margin increase or decrease year to year?",
+    "ground_truth": "The Systems gross profit margin decrease year to year",
+    "human_score": null
+  },
+  {
+    "uid": "bfd74e81-790f-4123-9e88-0fa2fb2c209b",
+    "answer": "2",
+    "question": "How many years did the Projected benefit obligation exceed $150,000 thousand?",
+    "ground_truth": "2",
+    "human_score": null
+  },
+  {
+    "uid": "ce8cf2a8-8e6f-448a-a286-c94b826fc461",
+    "answer": "$520, $557",
+    "question": "What is the beginning balance in 2019 and 2018 respectively?",
+    "ground_truth": "$520, $557",
+    "human_score": null
+  },
+  {
+    "uid": "209fc186-317d-4dd9-8f76-fa219d304259",
+    "answer": "100.00",
+    "question": "What is the value of the number of shares issued by the company in 2017 as a percentage of its total issued and outstanding shares as at December 31, 2017?",
+    "ground_truth": "28.18",
+    "human_score": null
+  },
+  {
+    "uid": "724391cc-ac15-40c8-8da7-39301deee97c",
+    "answer": "strategic investments in plant protein to drive top line growth and heightened volatility in hog prices.",
+    "question": "Why did net earnings fall in 2019?",
+    "ground_truth": "Strategic investments in plant protein to drive top line growth and heightened volatility in hog prices.",
+    "human_score": null
+  },
+  {
+    "uid": "9c75856e-ba3f-4d5c-8fe1-47b91670e11c",
+    "answer": "METRO China was excluded from the full-time equivalents as of the closing date of 30/9.",
+    "question": "What was excluded in the full-time equivalents as of the closing date of 30/9?",
+    "ground_truth": "METRO China.",
+    "human_score": null
+  },
+  {
+    "uid": "b62d3580-a344-481f-9eb3-ec9c070740b9",
+    "answer": "Fees for professional services for tax compliance, tax advice and tax planning. These services include consultation on tax matters and assistance regarding federal, state and international tax compliance.",
+    "question": "What does “Tax Fees” consist of?",
+    "ground_truth": "Fees for professional services for tax compliance, tax advice and tax planning",
+    "human_score": null
+  },
+  {
+    "uid": "20fd2f24-a32a-467c-b8c4-d6cc164262e5",
+    "answer": "28,610, 6,407",
+    "question": "What are the estimated fair values of intangible assets of A2iA and ICAR Acquisition, respectively?",
+    "ground_truth": "28,610, 6,407",
+    "human_score": null
+  },
+  {
+    "uid": "1fee5ebd-0556-43ce-9c5f-96930d75fed1",
+    "answer": "0.76",
+    "question": "What is the basic net income per common share in 2019?",
+    "ground_truth": "$0.76",
+    "human_score": null
+  },
+  {
+    "uid": "bdc6fda2-3789-4886-94fc-7b4aece251d5",
+    "answer": "ADTN",
+    "question": "What symbol is ADTRAN's common stock traded under on the NASDAQ Global Select Market?",
+    "ground_truth": "ADTN.",
+    "human_score": null
+  },
+  {
+    "uid": "eeb58bf5-0f5a-44f5-a414-944854409aeb",
+    "answer": "Subscription cost of revenues and gross margin, Other cost of revenues and gross margin, Product sales costs, Services personnel costs, Personnel and contractor related costs, Software development costs, Software maintenance and support costs, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software royalties and amortization, Software",
+    "question": "What are the factors influencing the cost of revenues and gross margins in 2019?",
+    "ground_truth": "increase in services personnel costs, cost of product sales, overhead costs",
+    "human_score": null
+  },
+  {
+    "uid": "5b71829d-4241-48c8-95fd-b39bf2e2a380",
+    "answer": "growth in our subscriber base, including the revenue impact from subscribers we added in 2018.",
+    "question": "What was the increase in the company's Alarm.com segment SaaS and license revenue in 2019 was primarily due to?",
+    "ground_truth": "growth in our subscriber base, including the revenue impact from subscribers we added in 2018.",
+    "human_score": null
+  },
+  {
+    "uid": "84d966fe-6c10-4c95-9ea2-c10c8bf908bd",
+    "answer": "S$3.65 billion",
+    "question": "What was the free cash flow for the year?",
+    "ground_truth": "S$3.65 billion",
+    "human_score": null
+  },
+  {
+    "uid": "d280a98d-81cd-41e7-b823-2bf34afdb707",
+    "answer": "$63.9 million",
+    "question": "As at December 31, 2018 what was the minimum lease payments to be received by Teekay LNG related to its direct financing leases in 2019?",
+    "ground_truth": "As at December 31, 2018, estimated minimum lease payments to be received by Teekay LNG related to its direct financing leases in each of the next five years were approximately $63.9 million (2019)",
+    "human_score": null
+  },
+  {
+    "uid": "7341cbd6-1ec1-4928-93fe-fa183097c97a",
+    "answer": "2",
+    "question": "How many years did cost of sales of net sales exceed 40%?",
+    "ground_truth": "2",
+    "human_score": null
+  },
+  {
+    "uid": "da890465-c160-43dd-89a1-c7c20e9b755c",
+    "answer": "debt due within one year plus long-term debt and 50% of preferred shares, less cash and cash equivalents.",
+    "question": "How is net debt defined?",
+    "ground_truth": "debt due within one year plus long-term debt and 50% of preferred shares, less cash and cash equivalents, as shown in BCE’s consolidated statements of financial position",
+    "human_score": null
+  },
+  {
+    "uid": "9bea67c7-b286-4094-8ef9-72282f5f768d",
+    "answer": "the Company’s revenue disaggregated by type of revenue",
+    "question": "What does the table present?",
+    "ground_truth": "the Company’s revenue disaggregated by type of revenue",
+    "human_score": null
+  },
+  {
+    "uid": "846a5e2f-f4f0-4eaf-8f17-4d445e379188",
+    "answer": "13 years",
+    "question": "For how many years has Mr Sciammas served as the company's Senior Vice President of Worldwide Sales and Marketing?",
+    "ground_truth": "13",
+    "human_score": null
+  },
+  {
+    "uid": "8e162110-be8b-49fb-a071-2b93f33b1784",
+    "answer": "84.2%",
+    "question": "How many percent of outstanding shares of Arlo common stock does NETGEAR hold before the distribution?",
+    "ground_truth": "84.2%",
+    "human_score": null
+  },
+  {
+    "uid": "db589e8a-d680-4593-8566-9d09787ebf06",
+    "answer": "subscription solutions",
+    "question": "What is Shopify's largest source of operating cash from?",
+    "ground_truth": "subscription solutions",
+    "human_score": null
+  },
+  {
+    "uid": "576dce3d-ebbb-4f7e-8b3d-5da39a8d47f0",
+    "answer": "$102.42",
+    "question": "What is the weighted-average grant date fair value of awards granted in fiscal year 2017?",
+    "ground_truth": "$102.42",
+    "human_score": null
+  },
+  {
+    "uid": "abb80589-b481-4679-8766-19a3e3fafbbc",
+    "answer": "10.00",
+    "question": "What is the value of R&D expenses as a percentage of the cost of revenues in 2018?",
+    "ground_truth": "13.73",
+    "human_score": null
+  },
+  {
+    "uid": "83869661-cf25-45d9-804d-6cfdb32f0f75",
+    "answer": "756",
+    "question": "What was the total property and equipment in 2018?",
+    "ground_truth": "756",
+    "human_score": null
+  },
+  {
+    "uid": "c1162e70-e21a-4b1b-a405-a704934dcd1d",
+    "answer": "United States, Foreign",
+    "question": "What are the components recorded under income (loss) from continuing operations before income taxes?",
+    "ground_truth": "United States, Foreign",
+    "human_score": null
+  }
+]
